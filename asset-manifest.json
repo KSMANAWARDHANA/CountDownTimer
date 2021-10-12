@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CountDownTimer/static/css/main.02f509b7.chunk.css",
+    "main.js": "/CountDownTimer/static/js/main.0532a003.chunk.js",
+    "main.js.map": "/CountDownTimer/static/js/main.0532a003.chunk.js.map",
+    "runtime-main.js": "/CountDownTimer/static/js/runtime-main.580a7faa.js",
+    "runtime-main.js.map": "/CountDownTimer/static/js/runtime-main.580a7faa.js.map",
+    "static/js/2.c6db51e7.chunk.js": "/CountDownTimer/static/js/2.c6db51e7.chunk.js",
+    "static/js/2.c6db51e7.chunk.js.map": "/CountDownTimer/static/js/2.c6db51e7.chunk.js.map",
+    "static/js/3.f048861f.chunk.js": "/CountDownTimer/static/js/3.f048861f.chunk.js",
+    "static/js/3.f048861f.chunk.js.map": "/CountDownTimer/static/js/3.f048861f.chunk.js.map",
+    "index.html": "/CountDownTimer/index.html",
+    "static/css/main.02f509b7.chunk.css.map": "/CountDownTimer/static/css/main.02f509b7.chunk.css.map",
+    "static/js/2.c6db51e7.chunk.js.LICENSE.txt": "/CountDownTimer/static/js/2.c6db51e7.chunk.js.LICENSE.txt",
+    "static/media/bethel.bb4a89df.png": "/CountDownTimer/static/media/bethel.bb4a89df.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.580a7faa.js",
+    "static/js/2.c6db51e7.chunk.js",
+    "static/css/main.02f509b7.chunk.css",
+    "static/js/main.0532a003.chunk.js"
+  ]
+}
